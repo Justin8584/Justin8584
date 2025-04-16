@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justin8584&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin8584&layout=compact)
 
