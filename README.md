@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Justin8584)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=Justin8584&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Justin8584?label=follow&style=social)
 
 
